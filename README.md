@@ -1,2 +1,2 @@
 # thequantumllama.github.io
-Personal Website
+A place for me to display myself and my projects and play around with front-end web development.
